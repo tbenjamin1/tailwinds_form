@@ -1,0 +1,15 @@
+{
+  "name":"frontEnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwinds": "tailwind build src/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "benjamin",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
